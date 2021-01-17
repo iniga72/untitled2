@@ -5,6 +5,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 public class test extends JavaPlugin {
     @Override
     public void onEnable() {
-        this.getLogger().warning("фыафаф");
+        this.getLogger().warning("1aa");
     }
 }
